@@ -1,6 +1,6 @@
 # 🚀 Boost – SEO & Digital Marketing Landing Page
 
-![image alt]https://github.com/Yelle-stack/Boost/blob/9b61b5bebceb9cf2b682333397da9edcc41a5650/BoostPhoto.png)
+
 ## Boost is a modern, responsive landing page designed for a digital marketing and SEO agency. The project focuses on clean UI design, smooth user experience, and engaging animations.
 
 ## Built using HTML5, SCSS (Sass), and Vanilla JavaScript, this project showcases strong frontend fundamentals, structured architecture, and interactive components.
